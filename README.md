@@ -4,8 +4,7 @@
 ---
 
 ### 📱 Contact
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](github-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/renhor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-tonkoshkurov-job/)
 - 📞 +66-063-272-83-88
 - 📧 roman.tonkoshkurov.job@gmail.com
 
