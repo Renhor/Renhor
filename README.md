@@ -36,50 +36,16 @@ In addition to maintaining high standards in front-end development, particularly
 #### Backend & DevOps
 - ⚙️ **Core:** Node.js, Express, Nest.js
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB
-- 🚀 **Tools:** Git, Docker, CI/CD, NX monorepo
+- 🚀 **Tools:** Git, Docker, CI/CD, NX monorepo, Redis
 
 ---
 
-### 💼 Experience
+### 🎓 Personal Brand
 
-#### 🏢 Senior Front-end Developer
-**Currency Exchange** | *04/2021 - 12/2024 (3.7 YEARS)*
-
-- 🔄 Migrated the project from a legacy framework to Next.js and implemented modular architecture, increasing feature deployment speed by 37%
-- 🐛 Achieved a 54% reduction in monthly bugs through comprehensive code reviews and legacy code refactoring
-- ⚡ Optimized the website's main page performance, improving mobile PageSpeed score by 106% from 40 to 82
-
-`TypeScript` `React` `Next.js` `MUI` `Node.js` `Vue2`
-
-#### 🏢 Front-end Developer
-**Creative.co** | *01/2020 - 04/2021 (1.3 YEARS)*
-
-- 📚 Created a UI library of 40+ components used across different projects
-- 🚀 Reduced API load by 87% by implementing socket event updates
-- ⚡ Created a DB replica to speed up GET requests, reducing average request time from 11 sec. to 0.14 sec
-
-`TypeScript` `React` `React Router` `Vite` `Node.js`
-
-#### 🏢 Full-stack Developer
-**BoostMMR** | *02/2017 - 01/2020 (3.0 YEARS)*
-
-- 📈 Reduced the number of refusals from 14% to 2% by improving the LCP metric
-- 💰 Increased quarterly revenue by 8% by implementing a more user-friendly order form
-- ⚡ Reduced page load times by 42% through effective use of lazy loading and image optimization
-
-`JavaScript` `React` `Next.js` `PHP` `MySQL`
-
----
-
-### 🎓 Education
-
-#### 📚 MASTER'S DEGREE
-**Samara National Research University** | *2014-2016*
-- Specialization: Creating and sustaining a high-quality software product
-
-#### 📚 BACHELOR'S DEGREE
-**Samara National Research University** | *2010-2014*
-- Major: Information, networks and computer science
+As I mentioned in my "About" section, I enjoy working on personal side projects. 
+One such project is [BoostMMR](https://boostmmr.ru/), which I began in mid-2018. It is a full-fledged and profitable project 
+with approximately 50,000 lines of code, which I have delegated to a friend for management. 
+There is a [GitHub “slice”](https://github.com/Renhor/bmr-slice) of the project.
 
 ---
 
